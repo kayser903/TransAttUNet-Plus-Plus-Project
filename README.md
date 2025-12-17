@@ -38,3 +38,7 @@ The model achieves the following results on the ISIC 2018 dataset:
 - Segmentation Accuracy: 95.32%
 
 These results outperform standard U-Net baselines.
+
+## License
+
+This project is intended for academic and research purposes. Please cite appropriately if used in published work.
