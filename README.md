@@ -1,4 +1,4 @@
-# Hybrid Transformer-Attention U-Net++ for Medical Image Segmentation
+# TransAttUnet++: Multi-Level Attention-Guided U-Net With Transformer for Medical Image Segmentation.
 
 This repository implements a novel hybrid deep learning architecture for medical image segmentation, evaluated on the ISIC 2018 skin lesion segmentation dataset. The model extends the classical U-Net framework by integrating Transformer-based self-attention, convolutional self-attention, and frequency-domain attention to improve both global and local feature representation.
 
